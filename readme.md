@@ -37,4 +37,4 @@ npm install --save
 expo start
 ```
 
-Make sure you give access to nodejs to your network if you're on windows and windows Defender is blocking access!
+Make sure you give Nodejs access to your network. (Windows defender will surely come in your way)
