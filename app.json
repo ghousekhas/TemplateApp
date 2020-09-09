@@ -1,0 +1,12 @@
+{
+  "name": "TemplateApp",
+  "displayName": "TemplateApp",
+  "expo": {
+    "name": "TemplateApp",
+    "slug": "TemplateApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
