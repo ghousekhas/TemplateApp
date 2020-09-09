@@ -22,3 +22,19 @@ Scan the QR code in the browser and voila!
 ```javascript
 I guess we'll be discussing this 0.o
 ```
+
+# Troubleshooting
+
+It's a little too early for troubleshooting. Isn't it? 
+
+Anyway if expo start throws an error which says module not found
+
+Try
+
+```bash
+npm install -g expo-cli --force
+npm install --save
+expo start
+```
+
+Make sure you give access to nodejs to your network if you're on windows and windows Defender is blocking access!
