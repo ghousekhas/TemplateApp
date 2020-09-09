@@ -15,6 +15,10 @@ expo start
 
 ## Usage
 
+Just after running expo start you'll probably be greeted by a browser launch.
+Make sure your phone's connected to the same wireless network, [install expo on your phone from the playstore](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US)
+Scan the QR code in the browser and voila!
+
 ```javascript
 I guess we'll be discussing this 0.o
 ```
